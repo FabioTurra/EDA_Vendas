@@ -5,6 +5,11 @@ Este é um projeto feito com a base de Vendas e Promoções do curso "Análise d
 
 # Etapas do Projeto
   - Manipulação dos Dados
+    - Coleta
+    - Análise Preliminar
+    - Tratamento dos Dados
+    - Feature Engineering
+      
   - Análise Exploratória
     - Vendas e Receitas
     - Tempo
